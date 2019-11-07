@@ -1,0 +1,7 @@
+LOAD DATABASE
+    FROM mysql://root:db@0.0.0.0:33060/db 
+    INTO postgresql://db:db@0.0.0.0:54320/db
+CAST
+    type tinyint to smallint drop typemod,
+    type tinytext to text
+;
