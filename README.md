@@ -1,9 +1,10 @@
 # pgloader example
 
 ## Resources
-1. [pgloader documetation](https://pgloader.readthedocs.io/en/latest/index.html)
-2. [Installing pgloader](https://github.com/dimitri/pgloader#installs)
-3. 
+
+1. [Installing pgloader](https://github.com/dimitri/pgloader#installs)
+2. [pgloader documentation](https://pgloader.readthedocs.io/en/latest/index.html)
+3. [MySQL vs PostgreSQL type mapping](https://dev.mysql.com/doc/workbench/en/wb-migration-database-postgresql-typemapping.html)
 
 
 ## Instructions to run
